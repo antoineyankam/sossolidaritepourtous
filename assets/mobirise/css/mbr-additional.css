@@ -773,6 +773,11 @@ a {
     padding-right: 16px;
   }
 }
+*:focus-visible {
+  outline: red solid 2px !important;
+  outline-offset: 2px !important;
+  transition: outline 0.2s ease-in-out;
+}
 .cid-tJS6tZXiPa {
   z-index: 1000;
   width: 100%;
@@ -1334,7 +1339,7 @@ a {
 }
 .cid-uQn27L7STV {
   display: flex;
-  background-image: url("../../../assets/images/whatsapp20image202024-10-0320c3a02012.34.59-a342baf0-1063x768.jpg");
+  background-image: url("../../../assets/images/sossolidaritc3a9pourtous2025-1-750x563.jpg");
 }
 .cid-uQn27L7STV .mbr-overlay {
   background-color: #000000;
@@ -1617,6 +1622,65 @@ a {
 }
 .cid-uQQQn0qQTO .content-head {
   max-width: 800px;
+}
+.cid-uXIk9y74NY {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-uXIk9y74NY .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uXIk9y74NY .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uXIk9y74NY .item-wrapper {
+  display: flex;
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-uXIk9y74NY .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uXIk9y74NY .mbr-section-title {
+  text-align: center;
+}
+.cid-uXIk9y74NY .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-uXIk9y74NY .image-wrapper {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.cid-uXIk9y74NY .image-wrapper img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.cid-uXIk9y74NY .content-head {
+  max-width: 800px;
+}
+.cid-uXIk9y74NY .img-box {
+  display: flex;
+  justify-content: center;
+}
+.cid-uXIk9y74NY .card-title {
+  text-align: center;
+}
+.cid-uXIk9y74NY .card-text {
+  text-align: center;
+}
+.cid-uXIk9y74NY .link {
+  text-align: center;
 }
 .cid-uQnsXzZw1z {
   padding-top: 1rem;
